@@ -1,0 +1,6 @@
+numpy
+matplotlib
+ipympl
+celluloid
+IPython
+SciencePlots
