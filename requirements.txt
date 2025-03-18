@@ -4,3 +4,4 @@ ipympl
 celluloid
 IPython
 SciencePlots
+scikit-learn
